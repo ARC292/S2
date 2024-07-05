@@ -1,0 +1,80 @@
+plle is green soFor other uses, see Animal (disambiguation).
+"Animalia" redirects here. For other uses, see Animalia (disambiguation).
+Animals
+Temporal range: Cryogenian – present, 665–0 Ma 
+Pha.ProterozoicArcheanHad.
+
+Scientific classificationEdit this classification
+Domain:	Eukaryota
+Clade:	Amorphea
+Clade:	Obazoa
+(unranked):	Opisthokonta
+(unranked):	Holozoa
+(unranked):	Filozoa
+Kingdom:	Animalia
+Linnaeus, 1758
+Subdivisions
+Bilateria (~30 phyla)
+Cnidaria
+Ctenophora
+Placozoa
+Porifera
+Synonyms
+Metazoa Haeckel 1874[1]
+Choanoblastaea Nielsen 2008[2]
+Gastrobionta Rothm. 1948[3]
+Zooaea Barkley 1939[3]
+Euanimalia Barkley 1939[3]
+Animals are multicellular, 
+
+Over 1.5 million living animal species have been described—of which around 1.05 million are insects, over 85,000 are molluscs, and around 65,000 are vertebrates. It has been estimated there are as many as 7.77 million animal species on Earth. Animal body lengths range from 8.5 μm (0.00033 in) to 33.6 m (110 ft). They have complex ecologies and interactions with each other and their environments, forming intricate food webs. The scientific study of animals is known as zoology, and the study of animal behaviors is known as ethology.
+
+Most living animal species belong to the infrakingdom Bilateria, a highly proliferative clade whose members have a bilaterally symmetric body plan. Extant bilaterians include the basal group Xenacoelomorpha, but the vast majority belong to two large superphyla: the protostomes, which include phyla such as arthropods, molluscs, flatworms, annelids and nematodes, etc.; and the deuterostomes, which include the three phyla echinoderms, hemichordates and chordates, the latter with the vertebrates being its most successful subphylum. Precambrian life forms interpreted as early complex animals were already present in the Ediacaran biota of the late Proterozoic, but fossils of primitive sponge and other speculative early animals have been dated to as early as the Tonian period. Nearly all modern animal phyla became clearly established in the fossil record as marine species during the Cambrian explosion, which began around 539 million years ago (Mya), and most classes during the Ordovician radiation 485.4 Mya. 6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 Mya during the Cryogenian period.
+
+Historically, Aristotle divided animals into those with blood and those without. Carl Linnaeus created the first hierarchical biological classification for animals in 1758 with his Systema Naturae, which Jean-Baptiste Lamarck expanded into 14 phyla by 1809. In 1874, Ernst Haeckel divided the animal kingdom into the multicellular Metazoa (now synonymous with Animalia) and the Protozoa, single-celled organisms no longer considered animals. In modern times, the biological classification of animals relies on advanced techniques, such as molecular phylogenetics, which are effective at demonstrating the evolutionary relationships between taxa.
+
+Humans make use of many other animal species for food (including meat, eggs and dairies), for materials (such as leather, fur and wool), as pets and as working animals for transportation, and services. Dogs, the first domesticated animal, have been used in hunting, in security and in warfare, as have horses, pigeons and birds of prey, while other terrestrial and aquatic animals are hunted for sports, trophies or profits. Non-human animals are also an important cultural element of human evolution, having appeared in cave arts and totems since the earliest times, and are frequently featured in mythology, religion, arts, literature, heraldry, politics and sports.
+
+Etymology
+The word animal comes from the Latin noun animal of the same meaning, which is itself derived from Latin animalis 'having breath or soul'.[4] The biological definition includes all members of the kingdom Animalia.[5] In colloquial usage, the term animal is often used to refer only to nonhuman animals.[6][7][8][9] The term metazoa is derived from Ancient Greek μετα (meta) 'after' (in biology, the prefix meta- stands for 'later') and ζῷᾰ (zōia) 'animals', plural of ζῷον zōion 'animal'.[10][11]
+
+Characteristics
+
+Animals are unique in having the ball of cells of the early embryo (1) develop into a hollow ball or blastula (2).
+Animals have several characteristics that set them apart from other living things. Animals are eukaryotic and multicellular.[12] Unlike plants and algae, which produce their own nutrients,[13] animals are heterotrophic,[14][15] feeding on organic material and digesting it internally.[16] With very few exceptions, animals respire aerobically.[a][18] All animals are motile[19] (able to spontaneously move their bodies) during at least part of their life cycle, but some animals, such as sponges, corals, mussels, and barnacles, later become sessile. The blastula is a stage in embryonic development that is unique to animals, allowing cells to be differentiated into specialised tissues and organs.[20]
+
+Structure
+All animals are composed of cells, surrounded by a characteristic extracellular matrix composed of collagen and elastic glycoproteins.[21] During development, the animal extracellular matrix forms a relatively flexible framework upon which cells can move about and be reorganised, making the formation of complex structures possible. This may be calcified, forming structures such as shells, bones, and spicules.[22] In contrast, the cells of other multicellular organisms (primarily algae, plants, and fungi) are held in place by cell walls, and so develop by progressive growth.[23] Animal cells uniquely possess the cell junctions called tight junctions, gap junctions, and desmosomes.[24]
+
+With few exceptions—in particular, the sponges and placozoans—animal bodies are differentiated into tissues.[25] These include muscles, which enable locomotion, and nerve tissues, which transmit signals and coordinate the body. Typically, there is also an internal digestive chamber with either one opening (in Ctenophora, Cnidaria, and flatworms) or two openings (in most bilaterians).[26]
+
+Reproduction and development
+See also: Sexual reproduction § Animals, and Asexual reproduction § Examples in animals
+
+Sexual reproduction is nearly universal in animals, such as these dragonflies.
+Nearly all animals make use of some form of sexual reproduction.[27] They produce haploid gametes by meiosis; the smaller, motile gametes are spermatozoa and the larger, non-motile gametes are ova.[28] These fuse to form zygotes,[29] which develop via mitosis into a hollow sphere, called a blastula. In sponges, blastula larvae swim to a new location, attach to the seabed, and develop into a new sponge.[30] In most other groups, the blastula undergoes more complicated rearrangement.[31] It first invaginates to form a gastrula with a digestive chamber and two separate germ layers, an external ectoderm and an internal endoderm.[32] In most cases, a third germ layer, the mesoderm, also develops between them.[33] These germ layers then differentiate to form tissues and organs.[34]
+
+Repeated instances of mating with a close relative during sexual reproduction generally leads to inbreeding depression within a population due to the increased prevalence of harmful recessive traits.[35][36] Animals have evolved numerous mechanisms for avoiding close inbreeding.[37]
+
+Some animals are capable of asexual reproduction, which often results in a genetic clone of the parent. This may take place through fragmentation; budding, such as in Hydra and other cnidarians; or parthenogenesis, where fertile eggs are produced without mating, such as in aphids.[38][39]
+
+Ecology
+
+Predators, such as this ultramarine flycatcher (Ficedula superciliaris), feed on other animals.
+Animals are categorised into ecological groups depending on their trophic levels and how they consume organic material. Such groupings include carnivores (further divided into subcategories such as piscivores, insectivores, ovivores, etc.), herbivores (subcategorized into folivores, graminivores, frugivores, granivores, nectarivores, algivores, etc.), omnivores, fungivores, scavengers/detritivores,[40] and parasites.[41] Interactions between animals of each biome form complex food webs within that ecosystem. In carnivorous or omnivorous species, predation is a consumer–resource interaction where the predator feeds on another organism, its prey,[42] who often evolves anti-predator adaptations to avoid being fed upon. Selective pressures imposed on one another lead to an evolutionary arms race between predator and prey, resulting in various antagonistic/competitive coevolutions.[43][44] Almost all multicellular predators are animals.[45] Some consumers use multiple methods; for example, in parasitoid wasps, the larvae feed on the hosts' living tissues, killing them in the process,[46] but the adults primarily consume nectar from flowers.[47] Other animals may have very specific feeding behaviours, such as hawksbill sea turtles primarily eating sponges.[48]
+
+
+Hydrothermal vent mussels and shrimps
+Most animals rely on biomass and bioenergy produced by plants and phytoplanktons (collectively called producers) through photosynthesis. Herbivores, as primary consumers, eat the plant material directly to digest and absorb the nutrients, while carnivores and other animals on higher trophic levels indirectly acquire the nutrients by eating the herbivores or other animals that have eaten the herbivores. Animals oxidize carbohydrates, lipids, proteins and other biomolecules, which allows the animal to grow and to sustain basal metabolism and fuel other biological processes such as locomotion.[49][50][51] Some benthic animals living close to hydrothermal vents and cold seeps on the dark sea floor consume organic matter produced through chemosynthesis (via oxidizing inorganic compounds such as hydrogen sulfide) by archaea and bacteria.[52]
+
+Animals evolved in the sea. Lineages of arthropods colonised land around the same time as land plants, probably between 510 and 471 million years ago during the Late Cambrian or Early Ordovician.[53] Vertebrates such as the lobe-finned fish Tiktaalik started to move on to land in the late Devonian, about 375 million years ago.[54][55] Animals occupy virtually all of earth's habitats and microhabitats, with faunas adapted to salt water, hydrothermal vents, fresh water, hot springs, swamps, forests, pastures, deserts, air, and the interiors of other organisms.[56] Animals are however not particularly heat tolerant; very few of them can survive at constant temperatures above 50 °C (122 °F).[57] Only very few species of animals (mostly nematodes) inhabit the most extreme cold deserts of continental Antarctica.[58]
+
+Diversity
+Size
+Further information: Largest organisms and Smallest organisms
+
+The blue whale is the largest animal that has ever lived.
+The blue whale (Balaenoptera musculus) is the largest animal that has ever lived, weighing up to 190 tonnes and measuring up to 33.6 metres (110 ft) long.[59][60][61] The largest extant terrestrial animal is the African bush elephant (Loxodonta africana), weighing up to 12.25 tonnes[59] and measuring up to 10.67 metres (35.0 ft) long.[59] The largest terrestrial animals that ever lived were titanosaur sauropod dinosaurs such as Argentinosaurus, which may have weighed as much as 73 tonnes, and Supersaurus which may have reached 39 meters.[62][63] Several animals are microscopic; some Myxozoa (obligate parasites within the Cnidaria) never grow larger than 20 µm,[64] and one of the smallest species (Myxobolus shekel) is no more than 8.5 µm when fully grown.[65]
+
+Numbers and habitats of major phyla
+The following table lists estimated numbers of described extant species for the major animal phyla,[66] along with their principal habitats (terrestrial, fresh water,[67] and marine),[68] and free-living or parasitic ways of life.[69] Species estimates shown here are based on numbers described scientifically; much larger estimates have been calculated based on various means of prediction, and these can vary wildly. For instance, around 25,000–27,000 species of nematodes 
